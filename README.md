@@ -1,5 +1,4 @@
-# Typed Jsonp  [![Build Status](https://travis-ci.org/effervescentia/typed-jsonp.svg?branch=master)](https://travis-ci.org/effervescentia/typed-jsonp)
-
+# Typed Jsonp  [![CircleCI](https://circleci.com/gh/effervescentia/typed-jsonp.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-jsonp)
 
 The type definition for [`jsonp`](https://github.com/LearnBoost/jsonp.git)
 
