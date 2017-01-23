@@ -1,5 +1,7 @@
 # Typed Jsonp  [![CircleCI](https://circleci.com/gh/effervescentia/typed-jsonp.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-jsonp)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/effervescentia/typed-jsonp.svg)](https://greenkeeper.io/)
+
 The type definition for [`jsonp`](https://github.com/LearnBoost/jsonp.git)
 
 ## LICENSE
